@@ -11,9 +11,10 @@ My videos are not fixed truths, but documented explorations. This repository exi
 
 # Videos
 
-| ID   | Video                                        | YouTube                                             | Link                                                                                                     |
-| ---- | -------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 0001 | This code is a nightmare… let’s refactor it! | [Link](https://www.youtube.com/watch?v=bql1SxWoqVw) | [Link](/english/videos/0001-this-code-is-a-nightmare-lets-refactor-it/YOUTUBE.md) |
+| ID   | Video                                          | YouTube                                             | Link                                                                                |
+| ---- | ---------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 0001 | This code is a nightmare… let’s refactor it!   | [Link](https://www.youtube.com/watch?v=bql1SxWoqVw) | [Link](/english/videos/0001-this-code-is-a-nightmare-lets-refactor-it/YOUTUBE.md)   |
+| 0002 | The End of DevOps? Here’s What’s Replacing It… | [Link](https://www.youtube.com/watch?v=VnExltM4yII) | [Link](/english/videos/0002-the-end-of-devops--heres-whats-replacing-it/YOUTUBE.md) |
 
 # Transparency
 

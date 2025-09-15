@@ -21,7 +21,7 @@
 
 - **Source code**: [fhuitelec/gilded-rose-kata](https://github.com/fhuitelec/gilded-rose-kata)
 - **Production tools**:
-  - [Canva](https://www.canva.com/) (thumbnail)
+  - [Canva](https://www.canva.com/) (thumbnail & motion designs)
   - [Final Cut Pro](https://www.apple.com/fr/final-cut-pro/) (editing tool)
   - [Envato](https://elements.envato.com/) (transitions, titles & editing assets)
   - [Pexels](www.pexels.com) (B-roll)

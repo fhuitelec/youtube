@@ -11,9 +11,10 @@ Mes vidéos ne sont pas des vérités figées, mais des explorations documentée
 
 # Vidéos
 
-| ID   | Vidéo                                      | YouTube                                             | Transparence                                                                                             |
-| ---- | ------------------------------------------ | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| 0001 | Ce code est un cauchemar… refactorons-le ! | [Link](https://www.youtube.com/watch?v=bql1SxWoqVw) | [Link](/english/videos/0001-this-code-is-a-nightmare-lets-refactor-it/YOUTUBE.md) |
+| ID   | Vidéo                                        | YouTube                                             | Transparence                                                                      |
+| ---- | -------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 0001 | Ce code est un cauchemar… refactorons-le !   | [Link](https://www.youtube.com/watch?v=bql1SxWoqVw) | [Link](/french/videos/0001-ce-code-est-un-cauchemar-refactorons-le/YOUTUBE.md)    |
+| 0002 | La fin du DevOps ? Voici ce qui le remplace… | [Link](https://www.youtube.com/watch?v=VnExltM4yII) | [Link](/french/videos/0002-la-fin-du-DevOps--voici-ce-qui-le-remplace/YOUTUBE.md) |
 
 # Transparence
 
