@@ -1,10 +1,10 @@
 # Ce code est un cauchemar… refactorons-le !
 
 > [!important]
-> 🇬🇧 The english version is available here ➡️ [link](/english/videos/0001-this-code-is-a-nightmare-lets-refactor-it/YOUTUBE.md).
+> 🇬🇧 The english version is available here ➡️ [link](./YOUTUBE.en.md).
 
 - ▶️ [Vidéo YouTube](https://www.youtube.com/watch?v=bql1SxWoqVw)
-- 📚 [YouTube & transparence](../../README.md)
+- 📚 [YouTube & transparence](../../README.fr.md)
 
 ## 1. Utilisation de l’IA
 

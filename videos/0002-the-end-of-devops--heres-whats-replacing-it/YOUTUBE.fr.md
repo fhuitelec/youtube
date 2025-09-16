@@ -1,10 +1,10 @@
 # La fin du DevOps ? Voici ce qui le remplace…
 
 > [!important]
-> 🇬🇧 The english version is available here ➡️ [link](/english/videos/0002-the-end-of-devops--heres-whats-replacing-it/YOUTUBE.md).
+> 🇬🇧 The english version is available here ➡️ [link](./YOUTUBE.en.md).
 
 - ▶️ [Vidéo YouTube](https://www.youtube.com/watch?v=VnExltM4yII)
-- 📚 [YouTube & transparence](../../README.md)
+- 📚 [YouTube & transparence](../../README.fr.md)
 
 ---
 
@@ -35,7 +35,7 @@
 - J'ai utilisé **ChatGPT (GPT-5)** pour :
   - comprendre l'API YouTube pour l'étude de concurrence
   - étudier les tendances de marchés (approche sourcée)
-  - générer le script NodeJS [devops-labor-market-trends](/code/videos/0002-the-end-of-devops--heres-whats-replacing-it/devops-labor-market-trends/) pour récupérer les données de l'[API Algolia de Hacker News](https://hn.algolia.com/api)
+  - générer le script NodeJS [devops-labor-market-trends](./code/devops-labor-market-trends/) pour récupérer les données de l'[API Algolia de Hacker News](https://hn.algolia.com/api)
   - m'aider à choisir le thème et le titre de la vidéo depuis les statistiques des chaînes YouTube concurrentes/adjacentes
   - générer une structure de script de la vidéo
   - affiner le script de la vidéo
@@ -49,7 +49,7 @@
 
 ### Code source
 
-- [Devops labor market trends - HN Who is hiring](/code/videos/0002-the-end-of-devops--heres-whats-replacing-it/devops-labor-market-trends/) : script NodeJS utilisé afin de récupérer le nombre d'annonces dans les threads [Hacker News](https://news.ycombinator.com/) "Who is hiring" depuis 2014
+- [Devops labor market trends - HN Who is hiring](./code/devops-labor-market-trends/) : script NodeJS utilisé afin de récupérer le nombre d'annonces dans les threads [Hacker News](https://news.ycombinator.com/) "Who is hiring" depuis 2014
 - [Non divulgué] : application CLI d'étude de concurrence sur YouTube pour trouver des thèmes de vidéos à fort potentiel ("outliers")
 
 ### Outils de production

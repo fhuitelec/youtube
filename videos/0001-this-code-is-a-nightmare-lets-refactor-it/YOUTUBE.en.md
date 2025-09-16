@@ -1,10 +1,10 @@
 # This code is a nightmare… let’s refactor it!
 
 > [!important]
-> 🇫🇷 Pour la version française, c'est par ici ➡️ [lien](/french/videos/0001-ce-code-est-un-cauchemar-refactorons-le/YOUTUBE.md).
+> 🇫🇷 Pour la version française, c'est par ici ➡️ [lien](./YOUTUBE.fr.md).
 
 - ▶️ [YouTube Video](https://www.youtube.com/watch?v=bql1SxWoqVw)
-- 📚 [YouTube & transparency](../../README.md)
+- 📚 [YouTube & transparency](../../README.en.md)
 
 ## 1. Use of AI
 
