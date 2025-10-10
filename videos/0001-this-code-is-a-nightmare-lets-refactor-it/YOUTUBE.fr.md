@@ -8,7 +8,7 @@
 
 ## 1. Utilisation de l’IA
 
-👉 Dans le cadre de cette vidéo, l’IA a une empreinte très faible.
+👉 Dans le cadre de cette vidéo, **l’IA a une empreinte très faible**.
 
 - J’ai utilisé **ChatGPT (GPT-5)** pour :
   - affiner le titre de la vidéo et la miniature
