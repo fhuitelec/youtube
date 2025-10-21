@@ -1,7 +1,7 @@
 # YouTube & transparence
 
 > [!important]
-> 🇬🇧 The english version is available here ➡️ [link](/english/README.md).
+> 🇬🇧 The english version is available here ➡️ [link](/README.en.md).
 
 ▶️ Chaîne YouTube : [@FabienHuitelec](https://www.youtube.com/@FabienHuitelec).
 

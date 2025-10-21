@@ -1,7 +1,7 @@
 # YouTube & transparency
 
 > [!important]
-> 🇫🇷 Pour la version française, c'est par ici ➡️ [lien](/french/README.md).
+> 🇫🇷 Pour la version française, c'est par ici ➡️ [lien](/README.fr.md).
 
 ▶️ YouTube Channel: [@FabienHuitelec](https://www.youtube.com/@FabienHuitelec).
 

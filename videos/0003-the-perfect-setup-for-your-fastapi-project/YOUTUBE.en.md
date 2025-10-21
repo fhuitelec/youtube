@@ -3,7 +3,7 @@
 > [!important]
 > 🇫🇷 La version française est disponible ici ➡️ [link](./YOUTUBE.fr.md).
 
-- ▶️ [YouTube Video](https://www.youtube.com/watch?v=VnExltM4yII)
+- ▶️ [YouTube Video](https://www.youtube.com/watch?v=0kmdkfS2hek)
 - 📚 [YouTube & Transparency](../../README.en.md)
 
 ---

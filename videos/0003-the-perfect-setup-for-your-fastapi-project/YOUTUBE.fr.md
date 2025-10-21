@@ -3,7 +3,7 @@
 > [!important]
 > 🇬🇧 The english version is available here ➡️ [link](./YOUTUBE.en.md).
 
-- ▶️ [Vidéo YouTube](https://www.youtube.com/watch?v=VnExltM4yII)
+- ▶️ [Vidéo YouTube](https://www.youtube.com/watch?v=0kmdkfS2hek)
 - 📚 [YouTube & transparence](../../README.fr.md)
 
 ---
