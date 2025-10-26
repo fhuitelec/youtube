@@ -16,6 +16,7 @@ Mes vidéos ne sont pas des vérités figées, mais des explorations documentée
 | 0001 | Ce code est un cauchemar… refactorons-le !   | [Link](https://www.youtube.com/watch?v=bql1SxWoqVw) | [Link](/videos/0001-this-code-is-a-nightmare-lets-refactor-it/YOUTUBE.fr.md)   |
 | 0002 | La fin du DevOps ? Voici ce qui le remplace… | [Link](https://www.youtube.com/watch?v=VnExltM4yII) | [Link](/videos/0002-the-end-of-devops--heres-whats-replacing-it/YOUTUBE.fr.md) |
 | 0003 | Le setup parfait pour ton projet FastAPI     | [Link](https://www.youtube.com/watch?v=0kmdkfS2hek) | [Link](/videos/0003-the-perfect-setup-for-your-fastapi-project/YOUTUBE.fr.md)  |
+| 0004 | Protège ta FastAPI avec OAuth2 & RBAC        | [Link](https://www.youtube.com/watch?v=CBLiSCD6v0E) | [Link](/videos/0004-secure-your-fastapi-with-oauth2-and-rbac/YOUTUBE.fr.md)    |
 
 # Transparence
 
