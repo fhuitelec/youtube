@@ -18,6 +18,7 @@
 - [Temps passé](#temps-passé)
 - [Licence](#licence)
 
+---
 
 ## Utilisation de l’IA
 
@@ -50,7 +51,7 @@
 
 ### Outils de code
 
-- [JetBrains PyCharm Pro](https://www.jetbrains.com/fr-fr/pycharm/)
+- [JetBrains PyCharm Pro](https://www.jetbrains.com/fr-fr/pycharm/) (IDE)
 
 ---
 

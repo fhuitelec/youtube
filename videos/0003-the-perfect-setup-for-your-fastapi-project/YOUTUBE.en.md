@@ -51,7 +51,7 @@
 
 ### Development Tools
 
-- [JetBrains PyCharm Pro](https://www.jetbrains.com/pycharm/)
+- [JetBrains PyCharm Pro](https://www.jetbrains.com/pycharm/) (IDE)
 
 ---
 
@@ -82,7 +82,7 @@ In addition to the episode-specific time listed below, I spent **~8h** researchi
 | Preparation  | Title & Thumbnail          | 0h45   |
 | **Preparation – total** |                 | **3h45** |
 | **Filming – total** |                     | **1h30** |
-| Editing      | Cutting                    | 2h     |
+| Editing      | Editing                    | 2h     |
 | Editing      | B-roll & Titles            | 1h15   |
 | Editing      | Transitions & SFX          | 1h     |
 | Editing      | Soundtrack                 | 0h30   |
